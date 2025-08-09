@@ -5,8 +5,28 @@
     "url": "https://raw.githubusercontent.com/Bouffeurs-des-codes/plugins/main/clock.js"
   },
   {
-    "name": "Calculatrice",
-    "description": "Effectue des calculs simples",
-    "url": "https://raw.githubusercontent.com/votre-username/votre-repo/main/plugins/calculator.js"
+    "name": "calculator",
+    "description": "Calculatrice simple",
+    "url": "https://raw.githubusercontent.com/votreuser/votrerepo/main/plugins/calculatrice.js"
+  },
+  {
+    "name": "weather",
+    "description": "Affiche la météo",
+    "url": "https://raw.githubusercontent.com/Bouffeurs-des-codes/plugins/main/meteo.js"
+  },
+  {
+    "name": "todo",
+    "description": "Gestionnaire de tâches",
+    "url": "https://raw.githubusercontent.com/Bouffeurs-des-codes/plugins/main/todo.js"
+  },
+  {
+    "name": "currency",
+    "description": "Convertisseur de devises",
+    "url": "https://raw.githubusercontent.com/Bouffeurs-des-codes/plugins/main/currency.js"
+  },
+  {
+    "name": "player",
+    "description": "Lecteur audio simple",
+    "url": "https://raw.githubusercontent.com/Bouffeurs-des-codes/plugins/main/player.js"
   }
 ]
