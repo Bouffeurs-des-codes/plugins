@@ -1,0 +1,12 @@
+// plugins/weather.js
+export function init() {
+  const weather = document.createElement('div')
+  weather.innerHTML = `
+    <div style="background:#87CEEB;padding:10px;border-radius:8px;width:150px">
+      <div style="font-weight:bold">Météo Actuelle</div>
+      <div>🌤️ 22°C</div>
+      <div>Ensoleillé</div>
+    </div>
+  `
+  document.getElementById('app-content').appendChild(weather)
+}
